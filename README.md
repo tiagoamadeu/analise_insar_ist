@@ -46,7 +46,8 @@ EGMS | Copernicus | STL components | Meteorological & Hydrological data
 **[Tiago Henrique]**  
 Data Scientist & Engineer  
 Focused on satellite data, spatial analytics, and environmental modeling.  
-[GitHub](https://github.com/tiagoamadeu) | [LinkedIn](www.linkedin.com/in/tiago-henrique-02a098103)
+[GitHub](https://github.com/tiagoamadeu) | [LinkedIn](https://www.linkedin.com/in/tiago-henrique-02a098103)
+
 
 ---
 
