@@ -1,5 +1,5 @@
 # Ignorar ficheiros HTML
-*.html
+#*.html
 
 # Ignorar ambiente virtual venv-snap
 venv-snap/
