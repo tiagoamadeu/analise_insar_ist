@@ -51,5 +51,3 @@ Focused on satellite data, spatial analytics, and environmental modeling.
 
 ---
 
-### 📜 License
-MIT License — Open for use, modification, and distribution with attribution.
