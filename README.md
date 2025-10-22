@@ -48,8 +48,4 @@ Data Scientist & Engineer
 Focused on satellite data, spatial analytics, and environmental modeling.  
 [GitHub](https://github.com/tiagoamadeu) | [LinkedIn](https://www.linkedin.com/in/tiago-henrique-02a098103)
 
-
 ---
-
-### 📜 License
-MIT License — Open for use, modification, and distribution with attribution.
