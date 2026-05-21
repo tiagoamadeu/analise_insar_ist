@@ -7,3 +7,15 @@ venv-snap/
 # Ignorar todos os ficheiros e subpastas dentro de data/
 data/
 
+figuras/
+
+*.pdf
+*.csv
+
+# Python cache
+__pycache__/
+
+# ficheiros compilados python
+*.pyc
+*.pyo
+*.pyd
